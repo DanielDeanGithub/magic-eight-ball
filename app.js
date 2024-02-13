@@ -37,7 +37,7 @@ switch (randomNumber) {
         break;
 }
 
-
+console.log(eightBall);
 
 
 
