@@ -1,8 +1,8 @@
+#### Objective provided by Codecademy
+
 ### BUILDING INTERACTIVE WEBSITES
 
 # Magic Eight Ball
-
-#### Objective provided by Codecademy:
 
 You’ve learned a powerful tool in JavaScript: control flow! It’s so powerful, in fact, that it can be used to tell someone’s fortune.
 
